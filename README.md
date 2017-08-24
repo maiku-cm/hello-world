@@ -1,2 +1,4 @@
 # hello-world
-A short description
+This is a git project.
+
+In case you didn't know, and stuff.
